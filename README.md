@@ -11,7 +11,6 @@ Tecnologias Utilizadas
 * Metodologia BEM: Nomenclatura de classes para componentes UI reutilizáveis e isolados.
 
 * Divisão de CSS por blocos: Organização do CSS em arquivos separados para cada componente principal da página.
-Check it out here: https://gisela-lucena.github.io/web_project_homeland/
 
 - FIGMA:  Utilizacao de FIGMA para criar um layout responsivo:
 
