@@ -1,0 +1,50 @@
+.content {
+  max-width: 984px;
+  margin: 92px auto 0;
+}
+
+.content__limiter {
+  max-width: 830px;
+
+}
+
+.content__title {
+  margin-bottom: 40px;
+  font-size: 54px;
+  font-weight: 900;
+  line-height: 58px;
+  }
+
+.content__quote {
+  max-width: 738px;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 34px;
+  margin-bottom: 10px;
+  ;
+}
+
+.content__author {
+  max-width: 830px;
+
+
+}
+
+.content__author_limiter {
+  max-width: 732px;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 34px;
+  margin: 0;
+  text-align: right;
+
+}
+
+.content__text {
+  max-width: 722px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 163%;
+  margin: 32px 10px 0 0;
+  text-align: justify;
+  }
