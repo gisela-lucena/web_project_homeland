@@ -43,7 +43,7 @@
   object-fit: contain;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1024px) {
   .header__logo {
   width: 188px;
   margin: 20px auto 0;
@@ -67,7 +67,7 @@
 }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 544px) {
   .header__title {
    max-width: 228px;
    font-size: 40px;

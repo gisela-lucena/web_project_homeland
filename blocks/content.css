@@ -47,7 +47,7 @@
 
   }
 
-  @media screen and (max-width: 768px) {
+  @media screen and (max-width: 1024px) {
 .content {
   max-width: 720px;
   margin: 90px auto 0;
@@ -64,7 +64,7 @@
    }
   }
 
-  @media screen and (max-width: 320px) {
+  @media screen and (max-width: 544px) {
 
 .content {
   max-width: 288px;
