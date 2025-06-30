@@ -36,7 +36,6 @@ html {
 
 .header__title {
   max-width: 720px;
-  height: 200px;
   font-size: 96px;
   font-weight: 900;
   line-height: 100px;
@@ -47,7 +46,6 @@ html {
 
 .header__subtitle {
   max-width: 720px;
-  height: 72px;
   font-size: 30px;
   font-weight: 400;
   line-height: 36px;
@@ -64,45 +62,49 @@ html {
 }
 
 .content {
-  display: flex;
-  flex-direction: column;
+  max-width: 984px;
+  margin: 92px auto 0;
+}
+
+.content__limiter {
+  max-width: 830px;
 
 }
 
 .content__title {
-  margin: 0;
-  width: 830px;
-  height: 116px;
+  margin-bottom: 40px;
   font-size: 54px;
   font-weight: 900;
   line-height: 58px;
-  padding-top: 92px;
-
   }
 
 .content__quote {
-  width: 738px;
-  height: 68px;
+  max-width: 738px;
   font-size: 24px;
   font-weight: 400;
   line-height: 34px;
-  margin: 40px 0 0;
-
+  margin-bottom: 10px;
+  ;
 }
 
 .content__author {
-  width: 732px;
-  height: 34px;
+  max-width: 830px;
+
+
+}
+
+.content__author_limiter {
+  max-width: 732px;
   font-size: 24px;
   font-weight: 400;
   line-height: 34px;
-  padding-top: 10px;
-  margin: 0 0 0 auto;
+  margin: 0;
+  text-align: right;
+
 }
 
 .content__text {
-  width: 722px;
-  height: 182px;
+  max-width: 722px;
   font-size: 16px;
   font-weight: 400;
   line-height: 163%;
@@ -110,5 +112,10 @@ html {
   text-align: justify;
   }
 
-.footer {}
+.footer {
+  max-width: 166px;
+  margin: 92px auto 0;
+  padding-bottom: 24px;
+
+}
 
