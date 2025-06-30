@@ -26,11 +26,9 @@
 
 .content__author {
   max-width: 830px;
-
-
 }
 
-.content__author_limiter {
+.content__author-limiter {
   max-width: 732px;
   font-size: 24px;
   font-weight: 400;
