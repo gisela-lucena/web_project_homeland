@@ -21,7 +21,7 @@
   max-width: 720px;
   font-size: 96px;
   font-weight: 900;
-  line-height: 100px;
+  line-height: 1.04;
   margin: 90px auto 32px;
   text-align: center;
 
@@ -31,7 +31,7 @@
   max-width: 720px;
   font-size: 30px;
   font-weight: 400;
-  line-height: 36px;
+  line-height: 1.2;
   margin: 0 auto;
 }
 
@@ -42,4 +42,5 @@
   height: 100%;
   margin: 64px auto 0;
   display: block;
+  object-fit: contain;
 }
