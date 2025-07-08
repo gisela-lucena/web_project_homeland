@@ -66,9 +66,9 @@
   grid-area: authors;
   align-self: end;
   font-size: 12px;
-  letter-spacing: 12%;
+  letter-spacing: 0.12em;
   line-height: 1;
-  transform: uppercase;
+  text-transform: uppercase;
   font-weight: 400;
   color: #AAAAAA;
 }

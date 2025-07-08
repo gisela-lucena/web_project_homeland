@@ -17,3 +17,5 @@ Tecnologias Utilizadas
 *  Neste design, você encontra especificações para as seguintes larguras de tela: 320px, 768px, e 1280px.
 
   - Implementação do projeto no GitHub Pages: https://gisela-lucena.github.io/web_project_homeland/
+
+** Rio de Janeiro Image source: https://unsplash.com/photos/white-cable-car-traversing-on-top-of-hills-overlooking-city-by-bay-cG2JQnPfmAw
