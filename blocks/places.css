@@ -98,7 +98,7 @@
   margin: 88px auto 0;
   }
 
-.places__items {
+.places__item {
   grid-template-rows: auto 340px auto;
   column-gap: 28px;
   }
@@ -112,6 +112,7 @@
 .places__image {
   max-width: 340px;
   max-height: 340px;
+  width: 100%;
   }
 
   .places__link {
@@ -138,7 +139,7 @@
   margin: 62px auto 0;
   }
 
-.places__items {
+.places__item {
   grid-template-columns: repeat(1, 1fr);
   grid-template-rows: auto auto 320px auto auto;
   grid-template-areas:
@@ -159,12 +160,12 @@
 .places__image {
   max-width: 320px;
   max-height: 320px;
+  width: 100%;
   }
 
   .places__link {
   max-width: 288px;
   font-size: 14px;
-
   }
 
   .places__authors {
