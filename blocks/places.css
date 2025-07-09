@@ -4,7 +4,7 @@
   margin: 92px auto 0;
   }
 
-.places__items {
+.places__item {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   grid-template-rows: auto 460px auto;
