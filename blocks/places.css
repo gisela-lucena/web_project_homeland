@@ -155,6 +155,7 @@
   max-width: 288px;
   font-size: 32px;
   line-height: 1.09;
+  margin: 0 auto;
   }
 
 .places__image {
@@ -165,16 +166,19 @@
 
   .places__link {
   max-width: 288px;
+  height: 48px;
   font-size: 14px;
+  margin: 0 auto;
   }
 
   .places__authors {
   max-width: 288px;
-  max-height: 89px;
+  margin: 0 auto;
   align-self: flex-start;
 }
 
 .places__description {
   max-width: 288px;
+  margin: 0 auto;
  }
 }

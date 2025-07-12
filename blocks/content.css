@@ -63,8 +63,13 @@
   @media screen and (max-width: 544px) {
 
 .content {
-  max-width: 288px;
+  max-width: 544px;
   margin: 64px auto 0;
+}
+
+.content__limiter {
+  max-width: 288px;
+  margin: 0 auto 38px;
 }
 
 .content__title {
